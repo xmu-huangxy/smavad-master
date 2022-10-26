@@ -1,0 +1,85 @@
+{
+    "01": {
+        "anomalies": [
+            {"bicycle": [[61, 180]]}
+        ],
+        "length": 180
+    },
+
+    "02": {
+        "anomalies": [
+            {"bicycle": [[95, 180]]}
+        ],
+        "length": 180
+    },
+
+    "03": {
+        "anomalies": [
+            {"bicycle": [[1, 146]]}
+        ],
+        "length": 150
+    },
+
+    "04": {
+        "anomalies": [
+            {"car": [[31, 180]]}
+        ],
+        "length": 180
+    },
+
+    "05": {
+        "anomalies": [
+            {"bicycle": [[1, 129]]}
+        ],
+        "length": 150
+    },
+
+    "06": {
+        "anomalies": [
+            {"bicycle": [[1, 159]]}
+        ],
+        "length": 180
+    },
+
+    "07": {
+        "anomalies": [
+            {"bicycle": [[46, 180]]}
+        ],
+        "length": 180
+    },
+
+    "08": {
+        "anomalies": [
+            {"bicycle": [[1, 180]]}
+        ],
+        "length": 180
+    },
+
+    "09": {
+        "anomalies": [
+            {"bicycle": [[1, 120]]}
+        ],
+        "length": 120
+    },
+
+    "10": {
+        "anomalies": [
+            {"bicycle": [[1, 150]]}
+        ],
+        "length": 150
+    },
+
+    "11": {
+        "anomalies": [
+            {"bicycle": [[1, 180]]}
+        ],
+        "length": 180
+    },
+
+    "12": {
+        "anomalies": [
+            {"skiting": [[88, 180]]}
+        ],
+        "length": 180
+    }
+}
